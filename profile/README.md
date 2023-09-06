@@ -21,7 +21,7 @@
 </center>
 
 **Meeting time:**
-- Fall and Spring Semesters: Wednesdays 3:00 PM Pacific at LIB 260 (Digital Media Studio/MakerSpace)
+- Fall and Spring Semesters: Wednesdays, Saturdays at 3:00 PM Pacific in CA 127 (Computer Science Lab)
 - Summer and Winter Semesters: As available. Check Discord and GroupMe for latest times.
 
 **For Access:**
