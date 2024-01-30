@@ -21,7 +21,7 @@
 </center>
 
 **Meeting time:**
-- Fall and Spring Semesters: Wednesdays, Saturdays at 3:00 PM Pacific in CA 127 (Computer Science Lab)
+- Fall and Spring Semesters: Weekdays at 4 in CA 128 (Computer Science Lab)
 - Summer and Winter Semesters: As available. Check Discord and GroupMe for latest times.
 
 **For Access:**
